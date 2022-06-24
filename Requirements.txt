@@ -1,0 +1,2 @@
+SFML Setup for VS Studio
+Winforms C++ for VS Studio (.NET Framework)
